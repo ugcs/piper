@@ -1,0 +1,6 @@
+# Ignore build directories
+/build-*
+/**/build-*
+
+# Ignore eclipse settings file
+.settings
